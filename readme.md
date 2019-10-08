@@ -115,19 +115,19 @@ Il existe deux applications super utiles pour télécharger et consulter de la d
 
 ### Dash
 
-**Site:** [kapeli.com/dash](https://kapeli.com/dash) 
-**Plateformes:** Mac OS 
-**Prix:** Payant (±25$), version gratuite (avec publicité) disponible 
-**Sources:** Fermées
-**Éditeur:** Kapeli
+* **Site:** [kapeli.com/dash](https://kapeli.com/dash) 
+* **Plateformes:** Mac OS 
+* **Prix:** Payant (±25$), version gratuite (avec publicité) disponible 
+* **Sources:** Fermées
+* **Éditeur:** Kapeli
 
 ### Zeal
 
-**Site:** [zealdocs.org](https://zealdocs.org)
-**Plateformes:** Windows, Linux
-**Prix:** Gratuit
-**Sources:** Ouvertes
-**Éditeur:** Oleg Shparber & contributeurs
+* **Site:** [zealdocs.org](https://zealdocs.org)
+* **Plateformes:** Windows, Linux
+* **Prix:** Gratuit
+* **Sources:** Ouvertes
+* **Éditeur:** Oleg Shparber & contributeurs
 
 
 
