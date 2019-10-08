@@ -61,6 +61,16 @@ Voici une liste non exhaustive de quelques tutoriels que nous vous recommandions
 
 
 
+## Documentation
+
+Même si la quantité d'information peut paraitre importante, c'est LA document du langage qui reste la référence officielle.
+
+- [ ] [LA référence JavaScript par le MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- [ ] [Les priorités des opérateurs]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
+- [ ] [Les mots réservés en JS](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Mots_r%C3%A9serv%C3%A9s)
+
+
+
 ## Environnement de travail
 
 Cette partie vient en complément au dépôt [hepl-web/toolbox](https://github.com/hepl-web/toolbox) que vous devriez lire avant. 
@@ -97,9 +107,27 @@ Même s’il est d’un grand intérêt pour vous d’être à l’aise avec la 
 Enfin, pour les utilisateurs de macOS, sachez qu’il existe [iTerm 3](https://www.iterm2.com/version3.html), une alternative à l’application native *Terminal* qui permet une configuration plus complète.
 
 
+### Documentation
 
+Pour les langages "_communs_", comme HTML, CSS & JavaScript, la meilleure source de documentation est la [MDN](https://developer.mozilla.org/fr/). Pour les autres langages, le site officiel de chacun est souvent la meilleure référence.
 
+Il existe deux applications super utiles pour télécharger et consulter de la documentation hors-ligne.
 
+### Dash
+
+**Site:** [kapeli.com/dash](https://kapeli.com/dash) 
+**Plateformes:** Mac OS 
+**Prix:** Payant (±25$), version gratuite (avec publicité) disponible 
+**Sources:** Fermées
+**Éditeur:** Kapeli
+
+### Zeal
+
+**Site:** [zealdocs.org](https://zealdocs.org)
+**Plateformes:** Windows, Linux
+**Prix:** Gratuit
+**Sources:** Ouvertes
+**Éditeur:** Oleg Shparber & contributeurs
 
 
 
