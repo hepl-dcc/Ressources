@@ -1,6 +1,6 @@
 # Ressources et autres
-
-> A list of the topics covered by the introductory course of JavaScript (TD) 
+ 
+> Useful links and tools for the JavaScript course
 
 * * *
 
