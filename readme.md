@@ -1,10 +1,14 @@
 # Ressources et autres
 
-Ce dépôt est l’endroit destiné à lister les ressources utiles au cours de [Développement Côté Client](https://github.com/hepl-dcc).
+Ce dépôt est l’endroit destiné à lister les ressources utiles au cours de JavaScript ([Développement Côté Client](https://github.com/hepl-dcc), tant pour la partie Travaux Dirigés (TD) que pour la partie Travaux Pratiques (TP)).
 
 ## Tutoriels
 
-Voici une liste non exhaustive de quelques tutoriels que nous vous recommandions chaleureusement. On vous propose un vaste choix en complément au cours, n'hésitez pas à choisir ce qui vous parle le plus. Nous sommes assez convaincus que votre aisance avec la programmation et le langage JavaScript viendront de pair avec l'entrainement. Voici des exercices qui vous permettent de vous entrainer. 
+Voici une liste non exhaustive de quelques tutoriels que nous vous recommandons chaleureusement.
+
+Nous vous proposeons un vaste choix en complément au cours, n'hésitez pas à choisir ce qui vous parle le plus. Nous sommes assez convaincus que votre aisance avec la programmation et le langage JavaScript viendront de pair avec l'entraînement.
+
+Vous trouvrez ici des exercices supplémentaires qui vous permettront de vous entraîner. 
 
 ### Udemy plateforme d'apprentissage
 
@@ -33,7 +37,7 @@ Voici une liste non exhaustive de quelques tutoriels que nous vous recommandions
 
 - [ ] [Introduction à JS : dessiner et animer](https://fr.khanacademy.org/computing/computer-programming/programming#intro-to-programming)
 
-### scrimba
+### Scrimba
 
 - [ ]  [learn modern javascript](https://scrimba.com/g/ges6)
 
@@ -60,22 +64,45 @@ Voici une liste non exhaustive de quelques tutoriels que nous vous recommandions
 - [ ] [JavaScript Testing Practices and Principles](https://frontendmasters.com/courses/testing-practices-principles/)
 
 
-
 ## Documentation
 
-Même si la quantité d'information peut paraitre importante, c'est LA document du langage qui reste la référence officielle.
+### online
+
+Pour les langages "_communs_", comme HTML, CSS & JavaScript, la meilleure source de documentation est celle du [MDN](https://developer.mozilla.org/fr/). Pour les autres langages, le site officiel de chacun est souvent la meilleure référence.
+
+Même si la quantité d'informations peut paraitre importante, c'est LA documentation du langage qui reste la référence officielle.
 
 - [ ] [LA référence JavaScript par le MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 - [ ] [Les priorités des opérateurs]( https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 - [ ] [Les mots réservés en JS](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Mots_r%C3%A9serv%C3%A9s)
 
 
+### offline
+
+Il existe deux applications super utiles pour télécharger et consulter de la documentation hors-ligne. Ces applications vous permettent de rassembler en local sur votre machine les documenations de tous les langages que vous utilisez couramment.
+
+Vous pouvez notamment y ramener la documentation du MDN concernant JavaScript.
+
+#### Dash
+
+* **Site:** [kapeli.com/dash](https://kapeli.com/dash) 
+* **Plateformes:** Mac OS 
+* **Prix:** Payant (±25$), version gratuite (avec publicité) disponible 
+* **Sources:** Fermées
+* **Éditeur:** Kapeli
+
+#### Zeal
+
+* **Site:** [zealdocs.org](https://zealdocs.org)
+* **Plateformes:** Windows, Linux
+* **Prix:** Gratuit
+* **Sources:** Ouvertes
+* **Éditeur:** Oleg Shparber & contributeurs
+
 
 ## Environnement de travail
 
 Cette partie vient en complément au dépôt [hepl-web/toolbox](https://github.com/hepl-web/toolbox) que vous devriez lire avant. 
-
-
 
 Vous êtes libre de choisir l’environnement de travail qui répond au mieux à vos besoins. Voici ce que nous vous proposons dans le cadre du laboratoire.
 
@@ -92,10 +119,9 @@ Je vous invite à consulter [hepl-web/toolbox – Navigateurs web](https://g
 Vous êtes libre de choisir celui qui vous convient le plus, puisque de toute façon vous devrez fournir des applications qui fonctionnent dans la plupart de navigateurs. Notez tout de même que dans le cadre du laboratoire nous utiliserons [Google Chrome](https://www.google.com/intl/fr/chrome/) et [Mozilla Firefox](https://www.mozilla.org/fr/).
 
 
-
 ### Terminal
 
-Dans le cadre du laboratoire, mais aussi dans les cours de [développement côté serveur](https://github.com/hepl-pwcs) vous serez amené à utiliser cet outil extrêmement puissant `=>` le terminal. 
+Dans le cadre du laboratoire, mais aussi dans les cours de [Développement Côté Serveur](https://github.com/hepl-pwcs), vous serez amené à utiliser cet outil extrêmement puissant `=>` le terminal. 
 
 Rem : Si vous êtes sous Windows, je vous invite à installer [Cygwin](https://www.cygwin.com/) pour mimer un comportement Unix. 
 
@@ -105,32 +131,3 @@ Même s’il est d’un grand intérêt pour vous d’être à l’aise avec la 
 * [fishshell.com](https://fishshell.com/)
 
 Enfin, pour les utilisateurs de macOS, sachez qu’il existe [iTerm 3](https://www.iterm2.com/version3.html), une alternative à l’application native *Terminal* qui permet une configuration plus complète.
-
-
-### Documentation
-
-Pour les langages "_communs_", comme HTML, CSS & JavaScript, la meilleure source de documentation est la [MDN](https://developer.mozilla.org/fr/). Pour les autres langages, le site officiel de chacun est souvent la meilleure référence.
-
-Il existe deux applications super utiles pour télécharger et consulter de la documentation hors-ligne.
-
-### Dash
-
-* **Site:** [kapeli.com/dash](https://kapeli.com/dash) 
-* **Plateformes:** Mac OS 
-* **Prix:** Payant (±25$), version gratuite (avec publicité) disponible 
-* **Sources:** Fermées
-* **Éditeur:** Kapeli
-
-### Zeal
-
-* **Site:** [zealdocs.org](https://zealdocs.org)
-* **Plateformes:** Windows, Linux
-* **Prix:** Gratuit
-* **Sources:** Ouvertes
-* **Éditeur:** Oleg Shparber & contributeurs
-
-
-
-
-
-
