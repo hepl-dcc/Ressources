@@ -1,12 +1,12 @@
 # Ressources et autres
  
-> Useful links and tools for the JavaScript course
+> Useful links and tools for the JavaScript class
 
 * * *
 
 **js-ressources** is an educational project, which will be used for JS courses.
 
-**Note:** the school where the course is given, the [HEPL](http://www.provincedeliege.be/hauteecole) from Liège, Belgium, is a french-speaking school. From this point, the instruction will be in french. Sorry.
+**Note:** the school where the course is given, the [HEPL](http://www.provincedeliege.be/hauteecole) from Liège, Belgium, is a french-speaking school. From this point, the instructions will be in french.
 
 * * *
 
